@@ -1,1 +1,17 @@
-/* CSS */
+*{
+margin: 0;
+padding: 0;
+}
+
+nav{
+background-color: white;
+box-shadow: #000 3px 3px 5px;
+}
+
+nav ul{
+	width: 100%;
+	list-style: none;
+	display: flex;
+	justify-content: flex-end;
+	
+}
