@@ -1,12 +1,14 @@
 *{
 margin: 0;
 padding: 0;
-background-color: red;
 }
 
+body{
+	background-color: #FFF;
+}
 nav{
-background-color: white;
-box-shadow: #000 3px 3px 5px;
+background-color: #fff;
+box-shadow: #C3C3C3 3px 3px 11px;
 }
 
 nav ul{
@@ -14,5 +16,10 @@ nav ul{
 	list-style: none;
 	display: flex;
 	justify-content: flex-end;
-	
+	align-items: center;
+
+}
+
+nav li{
+	height: 90px;
 }
