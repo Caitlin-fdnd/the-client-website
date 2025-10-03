@@ -1,6 +1,7 @@
 *{
 margin: 0;
 padding: 0;
+Font-family: Arial;
 }
 
 body{
@@ -8,8 +9,7 @@ body{
 }
 
 H1 {
-	
-	align-items: center;
+	margin: 20px 0 0 560px;
 }
 
 nav{
@@ -33,7 +33,13 @@ nav li{
 
 img {
   width: 210px;
-  height: 140px;
+  height: 130px;
   border: 1px solid black;
   margin: 10px 0;
+  margin-bottom: 0px;
+}
+
+article {
+	
+	margin: 20px 0 0 10px;
 }
