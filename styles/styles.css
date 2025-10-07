@@ -8,8 +8,17 @@ body{
 	background-color: #FFF;
 }
 
-H1 {
-	margin: 20px 0 0 560px;
+Header H1 {
+  margin: 20px 0 0 450px;
+  background-color: #3c4a81;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  display: inline-block;
+  position: relative;
+  font-size: 80px;
+  width: fit-content;
+  box-shadow: #D7D7D7 3px 10px 15px
 }
 
 nav{
@@ -31,7 +40,7 @@ nav li{
 	margin: 10px;
 }
 
-img {
+.article-img {
   width: 210px;
   height: 130px;
   border: 1px solid black;
@@ -39,7 +48,48 @@ img {
   margin-bottom: 0px;
 }
 
-article {
-	
-	margin: 20px 0 0 10px;
+.left-article{
+  background-color: #3c4a81;
+  color: white;
+  border-radius: 15px;
+  margin: 20px;
+  width: 420px;
+  padding: 10px;
+  position: relative;
+  box-shadow: #D7D7D7 3px 10px 15px ;
+}
+
+.right-article{
+  background-color: #3c4a81;
+  color: white;
+  border-radius: 15px;
+  margin: 20px;
+  width: 420px;
+  padding: 10px;
+  position: relative;
+  box-shadow: #D7D7D7 3px 10px 15px ;
+  margin-left: auto;
+  margin-right: 40px;
+}
+
+.left-article::after {
+  content: "";
+  position: absolute;
+  bottom: 10px;
+  left: -20px;
+  width: 0;
+  height: 0;
+  border: 10px solid transparent;
+  border-right-color: #3c4a81;
+}
+
+.right-article::after {
+  content: "";
+  position: absolute;
+  bottom: 10px;
+  right: -20px;
+  width: 0;
+  height: 0;
+  border: 10px solid transparent;
+  border-right-color: #3c4a81;
 }
