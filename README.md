@@ -4,6 +4,7 @@
 Ontwerp en maak een Nieuwspagina die aansluit op de Buurtcampus krant aan de hand van de huisstijl.
 
 Hier de link naar mijn website: [https://caitlin-fdnd.github.io/the-client-website/]
+
 Hier de link naar mijn Figma design: [https://www.figma.com/design/tWQG8n2UFAXMcwh10PnWfZ/Untitled?node-id=0-1&t=pr9KdUxy5ndtmuQz-1]
 
 
