@@ -2,28 +2,30 @@
 margin: 0;
 padding: 0;
 Font-family: Arial;
+line-height: 140%;
 }
 
 body{
-	background-color: #FFF;
+	background-color: #F2F2F2;
 }
 
 Header H1 {
   margin: 20px 0 0 450px;
   background-color: #3c4a81;
-  color: white;
+  color: #B4BcD0;
   padding: 10px 20px;
   border-radius: 10px;
   display: inline-block;
   position: relative;
   font-size: 80px;
   width: fit-content;
-  box-shadow: #D7D7D7 3px 10px 15px
+  box-shadow: #C7C7C7 3px 10px 15px
 }
 
 nav{
 background-color: #fff;
 box-shadow: #D7D7D7 3px 12px 11px;
+color: black;
 }
 
 nav ul{
@@ -38,6 +40,13 @@ nav ul{
 nav li{
 	height: 30px;
 	margin: 10px;
+}
+
+.nav-img {
+	
+	width: 420px;
+	height: 110px;
+	margin-top: 25px;
 }
 
 .article-img {
@@ -56,7 +65,7 @@ nav li{
   width: 420px;
   padding: 10px;
   position: relative;
-  box-shadow: #D7D7D7 3px 10px 15px ;
+  box-shadow: #C1C1C1 3px 10px 15px ;
 }
 
 .right-article{
@@ -67,7 +76,7 @@ nav li{
   width: 420px;
   padding: 10px;
   position: relative;
-  box-shadow: #D7D7D7 3px 10px 15px ;
+  box-shadow: #C1C1C1 3px 10px 15px ;
   margin-left: auto;
   margin-right: 40px;
 }
