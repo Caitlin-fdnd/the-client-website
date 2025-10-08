@@ -26,7 +26,7 @@ Ik wil als filter knop een soort compasje maken om het idee van de verschillende
 
 
 ## Kenmerken
-Ik heb alle artikelen opgedeeld met de tag <article>
+Ik heb alle artikelen opgedeeld met de tag "article"
 Ik gebruik alleen hexcodes voor kleuren
 Ik maak gebruik van code conventies
 
