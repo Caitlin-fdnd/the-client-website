@@ -1,9 +1,10 @@
 # The Client - Website
 
-Ontwerp en maak een website voor een opdrachtgever en bespreek het resultaat tijdens de Sprint Review.
 
-De instructie van deze leertaak staan in de [INSTRUCTIONS](https://github.com/fdnd-task/the-client-website/blob/main/docs/INSTRUCTIONS.md)
+Ontwerp en maak een Nieuwspagina die aansluit op de Buurtcampus krant aan de hand van de huisstijl.
 
+Hier de link naar mijn website: [https://caitlin-fdnd.github.io/the-client-website/]
+Hier de link naar mijn Figma design: [https://www.figma.com/design/tWQG8n2UFAXMcwh10PnWfZ/Untitled?node-id=0-1&t=pr9KdUxy5ndtmuQz-1]
 
 
 ## Inhoudsopgave Readme
@@ -14,12 +15,17 @@ De instructie van deze leertaak staan in de [INSTRUCTIONS](https://github.com/fd
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+In mijn versie van de nieuwspagina heb ik de artikelen opgemaakt als tekstwolkjes om de lezer het gevoel te geven dat de nieuws artikelen als geluid uit de buurt aan de lezer verteld wordt.
+Ik wil als filter knop een soort compasje maken om het idee van de verschillende buurten en locaties van de Buurtcampus krant vorm te geven.
+<img width="722" height="708" alt="Screenshot 2025-10-08 114906" src="https://github.com/user-attachments/assets/63758cfc-d18d-48ac-b390-7c3c31983584" />
+<img width="1888" height="816" alt="Screenshot 2025-10-08 114935" src="https://github.com/user-attachments/assets/5dc13b1f-94f5-4978-b0ad-0cc55c206eb6" />
+<img width="137" height="182" alt="Screenshot 2025-10-07 121003" src="https://github.com/user-attachments/assets/753e2e07-1ac9-494e-906a-9a1c7576c490" />
+
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+Ik heb alle artikelen opgedeeld met de tag <article>
+Ik gebruik alleen hexcodes voor kleuren
+Ik maak gebruik van code conventies
 
 
 
